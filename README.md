@@ -11,16 +11,8 @@ Este é um projeto de Login contendo o Nome e Senha e também tendo a opção de
 ## Technologies
 - Front - End com HTML, CSS
 
-<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width: 150px; display: inline-block;/>
-
-<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"/>
-
-<style>
-
-	width: 150px;
-	display: inline-block;
-}
-</style>
+<code><img height="30" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
 
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/">Linkedin</a>
