@@ -15,7 +15,7 @@ Este é um projeto de Login contendo o Nome e Senha e também tendo a opção de
     <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/>
 </div>
 <div class="box">
-    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png.jpg"/>
+    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"/>
 </div>
 
 <style>
