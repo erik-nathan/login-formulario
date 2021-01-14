@@ -10,6 +10,8 @@ Este é um projeto de Login contendo o Nome e Senha e também tendo a opção de
 
 ## Technologies
 - Front - End com HTML, CSS
+<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="Imagem HTML">
+<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="Imagem CSS">
 
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/">Linkedin</a>
@@ -19,3 +21,4 @@ Este é um projeto de Login contendo o Nome e Senha e também tendo a opção de
 </div>
 
 ![assinatura-padrao](https://user-images.githubusercontent.com/77215294/104212899-7e4d3400-5414-11eb-86f0-da65f37c1223.png)
+
