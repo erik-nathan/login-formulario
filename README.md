@@ -11,15 +11,12 @@ Este é um projeto de Login contendo o Nome e Senha e também tendo a opção de
 ## Technologies
 - Front - End com HTML, CSS
 
-<div class="box">
-    <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/>
-</div>
-<div class="box">
-    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"/>
-</div>
+<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width: 150px; display: inline-block;/>
+
+<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"/>
 
 <style>
-div.box {
+
 	width: 150px;
 	display: inline-block;
 }
